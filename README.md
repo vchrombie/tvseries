@@ -51,10 +51,10 @@ Website is accessible at https://athityakumar.github.io/tvseries/index.html
 - [x] Narcos
 - [ ] Person of Interest
 - [ ] Prisonbreak
-- [ ] Suits
+- [x] Suits
 - [ ] Supergirl
-- [ ] Supernatural
-- [ ] The Big Bang Theory
+- [x] Supernatural
+- [x] The Big Bang Theory
 - [x] The Flash
 - [ ] The Walking Dead
 - [ ] Vixen
@@ -87,6 +87,24 @@ Like the way it is automated? Star, fork and clone this repository. Contribution
 - [ ] [Wikipedia Link](https://en.wikipedia.org/wiki/Narcos)
 - [ ] [IMDb Link](http://www.imdb.com/title/tt2707408/)
 - [ ] [Episode Synopsis Link](https://en.wikipedia.org/wiki/List_of_Narcos_episodes)
+
+
+### Supernatural
+- [ ] [Wikipedia Link](https://en.wikipedia.org/wiki/Supernatural_(U.S._TV_series))
+- [ ] [IMDb Link](http://www.imdb.com/title/tt0460681/)
+- [ ] [Episode Synopsis Link](https://en.wikipedia.org/wiki/List_of_Supernatural_episodes)
+
+
+### The Big Bang Teory
+- [ ] [Wikipedia Link](https://en.wikipedia.org/wiki/The_Big_Bang_Theory)
+- [ ] [IMDb Link](http://www.imdb.com/title/tt0898266/)
+- [ ] [Episode Synopsis Link](https://en.wikipedia.org/wiki/List_of_The_Big_Bang_Theory_episodes)
+
+
+### Suits
+- [ ] [Wikipedia Link](https://en.wikipedia.org/wiki/Suits_(U.S._TV_series)
+- [ ] [IMDb Link](http://www.imdb.com/title/tt1632701/)
+- [ ] [Episode Synopsis Link](https://en.wikipedia.org/wiki/List_of_Suits_episodes)
 
 
 ### The Flash
@@ -161,6 +179,7 @@ auto/
       data/
 
             bb.json
+            bbt.json
             firefly.json
             flash.json
             got.json
@@ -171,6 +190,8 @@ auto/
             narcos.json
             poi.json
             sherlock.json
+            suits.json
+            supern.json
             totl.json
             whitecollar.json
 
@@ -254,6 +275,7 @@ images/
 
             arrow.png
             bb.png
+            bbt.png
             firefly.png
             flash.png
             got.png
@@ -262,6 +284,8 @@ images/
             narcos.png
             poi.png
             sherlock.png
+            suits.png
+            supern.png
             tofl.png
             whitecollar.png
 
@@ -323,6 +347,7 @@ javascript/
 series/
 
       bb.html
+      bbt.html
       firefly.html
       flash.html
       got.html
@@ -331,6 +356,8 @@ series/
       narcos.html
       poi.html
       sherlock.html
+      suits.html
+      supern.html
       totl.html
       whitecollar.html
 
